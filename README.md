@@ -1,13 +1,9 @@
-### Hi there, I'm Marcio Valim 👋
+# Hi there, I'm Marcio Valim 👋
 
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
+### A passionate programmer from Brazil
 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: marciovalim@gmail.com
-
-<br />
 
 ### Languages and Tools:
 
@@ -19,14 +15,10 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
-<br />
-
+<br>
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="marciovalim GitHub Stats" src="https://github-readme-stats-lilac-six.vercel.app/api?username=marciovalim&show_icons=true&hide_border=true" />
-
 </details>
 
 <!--
