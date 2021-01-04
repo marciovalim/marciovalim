@@ -2,7 +2,7 @@
 
 ### A passionate programmer from Brazil
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working with Flutter
 - 📫 How to reach me: marciovalim@gmail.com
 
 ### Languages and Tools:
