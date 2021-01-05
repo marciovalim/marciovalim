@@ -3,6 +3,7 @@
 ### A passionate programmer from Brazil
 
 - 🌱 I’m currently working with Flutter
+- 📖 I'm currently learning Clean Architeture and TDD
 - 📫 How to reach me: marciovalim@gmail.com
 
 ### Languages and Tools:
