@@ -1,10 +1,10 @@
-# Hi there, I'm Marcio Valim 👋
+# Hi there, I'm Marcio Valim 👋🏻
 
 ### A passionate programmer from Brazil
 
 - 🌱 I’m currently working with Flutter
 - 📖 I'm currently learning Clean Architeture and TDD
-- 📫 How to reach me: marciovalim@gmail.com
+- 📫 How to reach me: marciogsvalim@gmail.com
 
 ### Languages and Tools:
 
