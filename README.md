@@ -2,8 +2,9 @@
 
 ### A passionate developer from Brazil
 
-- 🌱 I’m currently working with Flutter
-- 📖 I'm currently learning Clean Architeture and TDD
+- 🌱 I’m currently working with Flutter and Firebase
+- 💬 Ask me about Clean Architecture Clean Code.
+- 📖 I'm currently learning Test Driven Development
 - 📫 How to reach me: marciogsvalim@gmail.com
 
 ### Languages and Tools:
