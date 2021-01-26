@@ -1,6 +1,6 @@
 # Hi there, I'm Marcio Valim 👋🏻
 
-### A passionate programmer from Brazil
+### A passionate developer from Brazil
 
 - 🌱 I’m currently working with Flutter
 - 📖 I'm currently learning Clean Architeture and TDD
