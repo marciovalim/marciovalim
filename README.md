@@ -1,9 +1,9 @@
-# Hi there, I'm Marcio Valim 👋🏻
+# Hi there, I'm Márcio Valim 👋🏻
 
 ### A passionate developer from Brazil
 
 - 🌱 I’m currently working with Flutter and Firebase
-- 💬 Ask me about Clean Architecture Clean Code.
+- 💬 Ask me about Clean Architecture and Clean Code
 - 📖 I'm currently learning Test Driven Development
 - 📫 How to reach me: marciogsvalim@gmail.com
 
