@@ -1,6 +1,6 @@
 # Hi there, I'm Márcio Valim 👋🏻
 
-### A passionate developer from Brazil
+### A passionate Flutter developer from Brazil
 
 - 🔭 I’m currently working with Flutter and Firebase
 - 💬 Ask me about Clean Architecture and Clean Code
