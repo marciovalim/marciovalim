@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with Flutter and Firebase
 - 💬 Ask me about Clean Architecture and Clean Code
-- 📖 I'm currently learning Elixir
+<!-- - 📖 I'm currently learning Elixir -->
 - 📫 How to reach me: marciogsvalim@gmail.com
 
 ### Languages and Tools:
