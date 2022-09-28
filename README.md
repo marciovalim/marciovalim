@@ -4,10 +4,10 @@
 
 With more than 2 years of experience in the software industry, I have already worked with technologies such as Node.js, Typescript, Flutter, MySql, Firebase, Azure, Svelte and React, currently working as a Full Stack developer focused on Back-end and Architecture.
 
-Github: https://github.com/marciovalim
 
-- 🔭 I’m currently working with Flutter and Firebase
+- 🔭 I’m currently working with Node.js and Typescript
 - 💬 Ask me about Clean Architecture and Clean Code
+- 📚 I'm currently learning about Domain Driven Design
 - 📫 How to reach me: marciogsvalim@gmail.com
 <!-- - 📖 I'm currently learning Elixir -->
 
