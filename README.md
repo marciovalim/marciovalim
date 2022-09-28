@@ -1,6 +1,10 @@
 # Hi there, I'm Márcio Valim 👋🏻
 
-### A passionate Flutter developer from Brazil
+### A passionate developer from Brazil
+
+With more than 2 years of experience in the software industry, I have already worked with technologies such as Node.js, Typescript, Flutter, MySql, Firebase, Azure, Svelte and React, currently working as a Full Stack developer focused on Back-end and Architecture.
+
+Github: https://github.com/marciovalim
 
 - 🔭 I’m currently working with Flutter and Firebase
 - 💬 Ask me about Clean Architecture and Clean Code
